@@ -1,0 +1,23 @@
+#hexagon-brand{
+    text-align: center;
+    float: left;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+#hexagon-logo{
+    height: 60px;
+}
+#hexagon-title{
+    font-size: 20px;
+}
+
+#user-logo{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
