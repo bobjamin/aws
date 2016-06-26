@@ -1,3 +1,3 @@
 export class Card{
-  title: 'bob'
+  title: String
 }
